@@ -35,11 +35,7 @@ Hi, I'm Praveen Raghav, a passionate DevOps Engineer from India.
 </a>
 <a href="https://github.com/praveenraghav01/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenraghav01&layout=compact&theme=radical" />
-</a>
-
-<a href="https://github.com/praveenraghav01/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=praveenraghav01&repo=github-readme-stats&theme=radical" />
-</a>    
+</a>   
 <a href="https://github.com/praveenraghav01/praveenraghav01.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=praveenraghav01&repo=praveenraghav01.github.io&theme=radical" />
 </a>
