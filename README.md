@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm [Praveen!](https://praveenraghav01.github.io) 👋
+### I'm [Praveen!](https://praveenraghav01.github.io) 👋
 <br />
 <br />
 
