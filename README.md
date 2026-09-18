@@ -20,6 +20,15 @@ I love solving complex infrastructure challenges and sharing knowledge with the 
 
 ---
 
+## 🎯 What I'm Currently Working On
+
+- Exploring advanced Kubernetes patterns and cloud-native architectures
+- Contributing to open-source DevOps projects
+- Building automation frameworks for infrastructure management
+- Learning about AI/ML ops and MLOps practices
+
+---
+
 ## 🛠️ Tech Stack
 
 **Cloud Platforms**
@@ -47,19 +56,10 @@ I love solving complex infrastructure challenges and sharing knowledge with the 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenraghav01&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenraghav01&layout=compact&theme=dark)
-
----
-
-## 🎯 What I'm Currently Working On
-
-- Exploring advanced Kubernetes patterns and cloud-native architectures
-- Contributing to open-source DevOps projects
-- Building automation frameworks for infrastructure management
-- Learning about AI/ML ops and MLOps practices
-
+- 🔗 [View my repositories](https://github.com/praveenraghav01?tab=repositories)
+- 📈 [Check my contributions](https://github.com/praveenraghav01)
+- ⭐ Feel free to star interesting projects!
+  
 ---
 
 ## 📫 Let's Connect!
