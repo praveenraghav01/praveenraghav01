@@ -1,21 +1,85 @@
-### Hi there 👋
+# Hey there! 👋 I'm Praveen Raghav
 
-<!--
-**praveenraghav01/praveenraghav01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer | Cloud Infrastructure | Automation Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building reliable, scalable infrastructure and automating everything in between.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### I'm [Praveen!](https://praveenraghav.com) 👋
-<br />
-<br />
+---
 
-Hi, I'm Praveen Raghav, a passionate DevOps Engineer from India.
+## 🚀 About Me
+
+I'm a DevOps Engineer from India with a focus on:
+- **Cloud Infrastructure**: AWS, Azure, GCP
+- **Containerization & Orchestration**: Docker, Kubernetes
+- **Infrastructure as Code**: Terraform, CloudFormation, Ansible
+- **CI/CD Pipelines**: GitHub Actions, Jenkins, GitLab CI
+- **Monitoring & Observability**: Prometheus, Grafana, ELK Stack
+- **DevSecOps**: Security best practices in infrastructure
+
+I love solving complex infrastructure challenges and sharing knowledge with the community.
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud Platforms**
+- AWS (EC2, S3, RDS, Lambda, CloudFormation)
+- Azure (VMs, App Services, AKS)
+- GCP (Compute Engine, Cloud Run)
+
+**DevOps & Infrastructure**
+- Kubernetes & Docker
+- Terraform & CloudFormation
+- Jenkins & GitHub Actions
+- Ansible & Chef
+
+**Monitoring & Logging**
+- Prometheus & Grafana
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+- Datadog, New Relic
+
+**Languages & Tools**
+- Python, Bash, Go
+- Git, Linux, Networking
+- Scripting & Automation
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenraghav01&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenraghav01&layout=compact&theme=dark)
+
+---
+
+## 🎯 What I'm Currently Working On
+
+- Exploring advanced Kubernetes patterns and cloud-native architectures
+- Contributing to open-source DevOps projects
+- Building automation frameworks for infrastructure management
+- Learning about AI/ML ops and MLOps practices
+
+---
+
+## 📫 Let's Connect!
+
+- **Personal Website**: [praveenraghav.com](https://praveenraghav.com)
+- **Email**: [praveensinghraghav96@gmail.com](mailto:praveensinghraghav96@gmail.com)
+- **LinkedIn**: [linkedin.com/in/praveenraghav01](https://linkedin.com/in/praveenraghav01)
+- **Twitter**: [@praveenraghav01](https://twitter.com/praveenraghav01)
+
+---
+
+## 💡 Fun Facts
+
+- ☁️ Cloud infrastructure enthusiast
+- 🐳 Docker & Kubernetes advocate
+- 📚 Continuous learner
+- 🤝 Open to collaborating on DevOps projects
+
+---
+
+**Last Updated**: September 2026
+
+Feel free to reach out if you'd like to collaborate or discuss anything DevOps-related! 🚀
